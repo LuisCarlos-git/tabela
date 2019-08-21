@@ -1,0 +1,31 @@
+body{
+	width: 500px;
+	margin: 0px auto;;
+	padding: 0px;
+}
+
+.cadastro{
+	padding: 20px;
+	margin-top: 50px;
+	border-radius: 10px;
+	box-shadow: 0 0 5px black;
+	border: 2px solid black;
+}
+form, label{
+	display: block;
+}
+.botao{
+	font-weight: bold;
+	width: 125px;
+	font-size: 1em;
+	margin-top: 20px;
+	padding: 5px;
+	color: #fff;
+	border-radius: 5px;
+	border-bottom: 3px solid #222;
+	border-right: 3px solid #222;
+	background: #020202; 
+}
+input{
+	margin: 8px;
+}
